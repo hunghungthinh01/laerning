@@ -6,4 +6,9 @@ class AnhHung
 	  $b = 100;
 	  return $a + $a;
 	}
+
+	public function issueOneTest()
+	{
+		echo 'This is my test';
+	}
 }
