@@ -17,8 +17,12 @@ class AnhHung
 		echo 'toi la hung';
 		echo 'em la ai';
 		echo 1;
-		echo 2;
+		//sdsd
+		nguyen hung
+		echo 2;sds
 		echo 3;
 		echo 4;
 	}
 }
+
+cai quai gi day
