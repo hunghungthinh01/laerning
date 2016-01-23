@@ -1,0 +1,9 @@
+class Master
+{
+	public function test()
+	{
+	  $a = 10;
+	  $b = 100;
+	  return $a + $a;
+	}
+}
