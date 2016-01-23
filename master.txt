@@ -19,10 +19,4 @@ class Master
 		// them comment vao day
 		return 10;
 	}
-
-	public function nghich1()
-	{
-		// them comment vao day
-		return 10;
-	}
 }
