@@ -16,5 +16,7 @@ class AnhHung
 		echo 'This is my test';
 		echo 'toi la hung';
 		echo 'em la ai';
+		echo 1;
+		echo 2;
 	}
 }
