@@ -6,3 +6,5 @@ heloo are you kidding me?
 commit lan 2
 
 comiit lan 2 dung rebse
+
+commit lan 4 dung rebase
