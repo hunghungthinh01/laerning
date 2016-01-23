@@ -18,5 +18,7 @@ class AnhHung
 		echo 'em la ai';
 		echo 1;
 		echo 2;
+		echo 3;
+		echo 4;
 	}
 }
