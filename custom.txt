@@ -21,4 +21,11 @@ class AnhHung
 		echo 3;
 		echo 4;
 	}
+  /**
+  * comment cho ham custom print
+  */
+	public function issueOneCustomPrint()
+	{
+		 echo "nguyen hung";
+	}
 }
