@@ -10,6 +10,7 @@ class Master
 	public function addNumeric()
 	{
 		// them vao cho co
+
 		return true;
 	}
 }
