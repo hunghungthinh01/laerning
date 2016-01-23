@@ -10,3 +10,7 @@ comiit lan 2 dung rebse
 commit lan 4 dung rebase
 
 commit lan 5
+
+commit lan 6
+
+commit lan 7
