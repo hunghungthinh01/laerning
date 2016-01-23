@@ -13,4 +13,9 @@ class Master
 
 		return true;
 	}
+
+	public function minusNumeric()
+	{
+		return 10;
+	}
 }
