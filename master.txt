@@ -6,4 +6,9 @@ class Master
 	  $b = 100;
 	  return $a + $a;
 	}
+
+	public function addNumeric()
+	{
+		return true;
+	}
 }
