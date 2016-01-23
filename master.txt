@@ -14,9 +14,16 @@ class Master
 		return true;
 	}
 
-	public function minusNumeric()
+	public function minusNdfdsfumeric()
 	{
 		// them comment vao day
 		return 10;
 	}
+cai gi the may hghoa
+	toi la ai va ai cung la toi
+
+	hdjfhkdsfh
+
+	ds
 }
+hello

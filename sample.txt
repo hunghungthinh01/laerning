@@ -1,0 +1,27 @@
+tien oi hoi la tien
+nguoi ve len xe hoa
+ok
+heloo are you kidding me?
+
+commit lan 2
+// nguyen hung
+
+comiit lan 2 dung rebse
+// hung da choi o day
+commit lan 4 dung rebase
+
+commit lan 5
+
+commit lan 6
+
+commit lan 7
+
+issue3 commit lan thu 1 
+
+issue3 commit lan thu 2
+
+issue4 commit lan thu 3
+
+commit 5 di bo eo hieu
+
+ciu deo hieusdsd
