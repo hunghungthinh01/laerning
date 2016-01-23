@@ -6,4 +6,17 @@ class Master
 	  $b = 100;
 	  return $a + $a;
 	}
+
+	public function addNumeric()
+	{
+		// them vao cho co
+
+		return true;
+	}
+
+	public function minusNumeric()
+	{
+		// them comment vao day
+		return 10;
+	}
 }
