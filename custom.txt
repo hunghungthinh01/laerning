@@ -9,4 +9,7 @@ class AnhHung
 
 	echo 1111;
 
+	echo 222;
+	echo 24;
+
 }
