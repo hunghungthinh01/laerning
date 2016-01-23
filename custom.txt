@@ -32,4 +32,14 @@ class AnhHung
 	{
 	 echo "nguyen hung";
 	}
+
+	function heelo12()
+	{
+	 echo "nguyen hung";
+	}
+
+	function heelo13()
+	{
+	 echo "nguyen hung";
+	}
 }
