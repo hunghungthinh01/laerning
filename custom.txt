@@ -21,4 +21,14 @@ class AnhHung
 		echo 3;
 		echo 4;
 	}
+
+	function abc()
+	{ 
+	  return 1;
+	}
+
+	function heelo()
+	{
+	 echo "nguyen hung";
+	}
 }
