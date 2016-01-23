@@ -16,6 +16,7 @@ class Master
 
 	public function minusNumeric()
 	{
+		// them comment vao day
 		return 10;
 	}
 }
