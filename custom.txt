@@ -6,6 +6,7 @@ class AnhHung
 	  $b = 100;
 	  return $a + $a;
 	}
+
   /**
   * Day la ham test cho issue1
   *
