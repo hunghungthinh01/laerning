@@ -7,40 +7,4 @@ class AnhHung
 	  return $a + $a;
 	}
 
-  /**
-  * Day la ham test cho issue1
-  *
-  */
-	public function issueOneTest()
-	{
-		echo 'This is my test';
-		echo 'toi la hung';
-		echo 'em la ai';
-		echo 1;
-		echo 2;
-		echo 3;
-		echo 4;
-	}
-
-	function abc()
-	{ 
-	  return 1;
-	}
-
-
-	function heelo()
-	{
-	 echo "nguyen hung";
-	}
-
-	function heelo12()
-	{
-	 echo "nguyen hung";
-	}
-
-	function heelo13()
-	{
-	 echo "nguyen hung";
-	}
-
 }
